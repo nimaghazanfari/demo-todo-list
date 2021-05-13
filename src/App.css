@@ -1,5 +1,15 @@
 .App {
+  width: 40%;
+  margin: auto;
   text-align: center;
+}
+
+.header {
+  text-align: center;
+}
+
+.add-todo-form {
+  text-align: left;
 }
 
 .App-logo {
